@@ -46,7 +46,7 @@
 ### **Cosmo** (by Relativity) (2025)  
 - **Tech:** Agentic AI  
 - 📈 Analyze Indian shares 🇮🇳 with deep insights 🔍, verified data 📜, and comprehensive fundamental analysis 📊 to help investors make well-informed decisions 💡✅.
-📌 [Output demo]([https://github.com/avishkararjan/deep-learning-essentials](https://drive.google.com/file/d/19AXj2u4gwXfl5GKTEoimxksv_kF905kj/view?usp=sharing)) 
+📌 [Output demo]([https://github.com/avishkararjan/deep-learning-essentials](https://drive.google.com/file/d/19AXj2u4gwXfl5GKTEoimxksv_kF905kj/view?usp=sharing) 
 📌 [Try Cosmo using Google Login](https://relativityweb.online/cosmo) 
 📌 [Relativity Link](https://relativityweb.online/) 
 
