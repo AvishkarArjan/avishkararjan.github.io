@@ -2,7 +2,7 @@
 
 🌍 **Location:** Bharat, that is India  
 📧 **Email:** [avishkararjan@gmail.com](mailto:avishkararjan@gmail.com)  
-🎓 **CV:** [Drive Link](https://drive.google.com/file/d/1ZQImki0ANEjxYcvbBygES-krbTKniudN/view?usp=drive_link)
+🎓 **CV:** [Drive Link](https://drive.google.com/file/d/1ZQImki0ANEjxYcvbBygES-krbTKniudN/view?usp=drive_link)  
 🔗 **LinkedIn:** [linkedin.com/in/avishkararjan](https://www.linkedin.com/in/avishkararjan/)  
 🔗 **GitHub:** [github.com/avishkararjan](https://github.com/avishkararjan)  
 
@@ -12,15 +12,9 @@
 
 ### **Indian Institute of Technology, Delhi** (Dec 2023 - Feb 2024)  
 **Research Project**  
-- Guide: Dr. Subodh Kumar, CSE Dept. IIT-Delhi  
+- Guide: Dr. Arpan Garai, CSE Dept. IIT-Delhi  
 - Worked on **Neural Radiance Fields (NeRFs)** to develop custom volume rendering techniques for reconstructing **3D underwater scenes** in **Virtual Reality (VR)**.  
 📜 **[View Certificate](https://drive.google.com/file/d/1mlEdtXCcN8JbEQqh3jS9tsozQalJ4wjf/view?usp=sharing)**  
-
-### **ICICDR - 2023, World Doctorates Day** (Aug 2023)  
-**Research Poster Presenter**  
-- Youngest participant at the **11th International Conference on Issues and Challenges in Doctoral Research 2023**.  
-- Presented a poster: **"Navigating Empirical Challenges in Deep Learning Research"**.  
-📜 **[View Certificate](https://drive.google.com/file/d/1ICkAfhRHAgu6TFTgAk5lKVLZ_5hwnlZa/view?usp=sharing)**  
 
 ### **String Arts Pvt Ltd** (Jan - Mar 2023)  
 **Full Stack Web Development Intern**  
@@ -53,7 +47,7 @@
 - Achieved ~25% outperformance in 3-month backtest.  
 📌 [GitHub Link](https://github.com/AvishkarArjan/agentic_trading)
 
-### **Cosmo** (by Relativity) (2025)  
+### **Cosmo** — AI Equity Research Reports (2025)  
 - **Tech:** Agentic AI  
 - 📈 Analyze Indian shares 🇮🇳 with deep insights 🔍, verified data 📜, and comprehensive fundamental analysis 📊 to help investors make well-informed decisions 💡✅.
 
@@ -63,7 +57,8 @@
 
 ### **Voyager — Paid Market Data for Free** (Mar 2025)  
 - Equity data scraping and management tool covering all stock-related financial data.
-📌 [Project Details](https://docs.google.com/document/d/1s-M8nZWCIUFzhVjt6S8XIkR0F0xIW_PpsPuLRc_Ko6M/edit?tab=t.0#heading=h.z6ne0og04bp5)  
+- 
+📌 [Project Details](https://docs.google.com/document/d/1s-M8nZWCIUFzhVjt6S8XIkR0F0xIW_PpsPuLRc_Ko6M/edit?tab=t.0#heading=h.z6ne0og04bp5)
 
 ### **Neural Radiance Fields (NeRF) Implementation** (Oct 2023)  
 - **Tech Stack:** PyTorch, Google Colab (T4 GPU)  
