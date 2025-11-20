@@ -2,70 +2,95 @@
 
 📍 Delhi NCR, India  
 📧 [avishkararjan@gmail.com](mailto:avishkararjan@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/avishkararjan/) | </> [GitHub](https://www.github.com/avishkararjan/) | 🎓 [CV](https://drive.google.com/file/d/1ZQImki0ANEjxYcvbBygES-krbTKniudN/view?usp=drive_link)
+🔗 [LinkedIn](https://www.linkedin.com/in/avishkararjan/) | </> [GitHub](https://www.github.com/avishkararjan/) | 🎓 [CV](https://drive.google.com/file/d/1nah8rDEPIzpUm-9IfDn2J3XLoOjlj8Wt/view?usp=sharing)
 
 ---
 
-## 💼 Research & Work Experience
+## 🎓 **Education**
 
-**Investment Analyst Intern** — *AlphaShot, New York, USA (Remote)*  
-*July 2025 – Present*  
-- Conduct financial analysis, modeling, company & industry research.  
-- Perform macro/micro market analysis.  
-- Contribute to the development of proprietary investment tools & technologies.
+### **M.Sc Computer Science** (2025–Present)
 
-**Research Associate** — *Indian Institute of Technology, Delhi*  
-*Dec 2023 – Feb 2024*  
-- Guided by **Dr. Arpan Garai** (CSE Dept. IIT-Delhi).  
-- Worked on **Neural Radiance Fields (NeRFs)** for 3D underwater scene reconstruction in VR.  
+**Universität Paderborn**
 
-**Full Stack Web Development Intern** — *String Arts Pvt Ltd*  
-*Jan 2023 – Mar 2023*  
-- Developed **String Backend** (MERN Stack).  
-- Integrated authentication, email verification, notifications, CRUD, and responsive UI.  
+* Pursuing curriculum focused on Data Science and Intelligent Systems
+* Expected graduation: 2027
 
----
+### **Bachelor of Technology – CSE (AI & ML)** (2021–2025)
 
-## 📄 Publications
-- **LLM Assisted Stock Trend Prediction: A Review** — *IC3SE 2025*  
-  *A. Arjan, K. Banerjee, A. Kumar, P. Kumar, Y. Srivastava, V. Dahiya, K. Sanyog*  
-  - Review of state-of-the-art sentiment analysis using LLMs for stock prediction.  
+**JSS Academy of Technical Education, Noida (AKTU)**
+
+* CGPA: 8.11/10 | German Grade: 1.95
+
+### **Fr. Agnel School, Noida**
+
+* Class 12 (CBSE): 95.6% (2021)
+* Class 10 (CBSE): 92.3% (2019)
 
 ---
 
-## 🎯 Research Interests
-- AI in Finance & Investing  
-- LLM Reasoning  
-- Big Data
+## 🧪 **Research & Work Experience**
+
+### **Investment Analyst Intern** — AlphaShot, New York, USA (Remote)
+
+**July 2025 – Oct 2025**
+
+* Worked on investment research involving financial analysis, company/industry research, macro & micro market analysis
+* Contributed to proprietary tools using data analysis and LLMs for macro data insights
+
+### **Research Associate** — Indian Institute of Technology, Delhi
+
+**Dec 2023 – Feb 2024**
+
+* Guide: Dr. Arpan Garai
+* Worked on Neural Radiance Fields (NeRFs) for custom volume rendering of 3D underwater VR scenes
+
+### **Full Stack Web Development Intern** — String Arts Pvt. Ltd.
+
+**Jan 2023 – Mar 2023**
+
+* Developed “String Backend,” a MERN-based management platform
+* Built authentication, email verification, notifications, CRUD features, responsive UI
 
 ---
 
-## 🏆 Positions of Responsibility
-**Chief Team Coordinator** — *Nibble Computer Society (NCS)*  
-*Mar 2025 – Present*  
-- Restructured & rebuilt the student tech team across departments.  
-- Hosted workshop on Agentic AI — *“Agentica”*.  
-- Leading the development of verification systems for the college fest *Zealicon*.
+## 📚 **Publications**
+
+### **LLM Assisted Stock Trend Prediction: A Review**
+
+*IC3SE 2025*
+
+* Review of LLM-driven stock trend prediction using sentiment analysis from news and social media
 
 ---
 
-## 🎓 Education
-**B.Tech in CSE (AI & ML)** — *JSS Academy of Technical Education, Noida*  
-*2021 – 2025* | CGPA: **8.11/10** | German Grade: **1.95**  
+## 🔍 **Research Interests**
 
-**Fr. Agnel School, Noida**  
-- Class 12 (CBSE): **95.6%** (2021)  
-- Class 10 (CBSE): **92.3%** (2019)
+* AI in Finance & Investing
+* LLM Reasoning
+* Big Data
 
 ---
 
-## 🛠 Skills
+## 🏅 **Positions of Responsibility**
 
-**Operating Systems:** Linux (Debian), Windows  
-**Languages:** Python, R, C++, JavaScript, SQL  
-**Frameworks & Libraries:** Jupyter, Pandas, NumPy, LangChain, PyTorch, Scikit-learn  
-**Agentic AI:** LLM Hosting via Ollama, Gemini/OpenAI API management  
-**Tools:** Docker, Git, GitHub, AWS, Server Deployment & Management  
+### **Chief Team Coordinator — Nibble Computer Society (NCS), JSS Noida**
+
+* Led restructuring and cross-departmental management
+* Coordinated and hosted “Agentica” (Agentic AI workshop)
+* Directed fest verification system for “Zealicon”
+
+---
+
+## 🛠️ **Skills**
+
+### **Technical Skills**
+
+* **Operating Systems:** Linux (Debian), Windows
+* **Languages:** Python, R, C++, JavaScript, SQL
+* **Frameworks:** LangChain, PyTorch, Scikit-learn, Matplotlib/Seaborn, XGBoost
+* **Agentic AI:** Ollama, Gemini/OpenAI API usage & management
+* **Dev Tools:** Docker, Git, GitHub, AWS, Server Deployment
+
 
 ---
 
