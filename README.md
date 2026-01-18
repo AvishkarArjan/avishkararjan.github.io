@@ -1,6 +1,6 @@
 # Avishkar Arjan
 
-📍 Delhi NCR, India  
+📍 Paderborn, North Rhine-Westphalia, Germany
 📧 [avishkararjan@gmail.com](mailto:avishkararjan@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/avishkararjan/) | </> [GitHub](https://www.github.com/avishkararjan/) | 🎓 [CV](https://drive.google.com/file/d/1nah8rDEPIzpUm-9IfDn2J3XLoOjlj8Wt/view?usp=sharing)
 
@@ -13,7 +13,7 @@
 **Universität Paderborn**
 
 * Pursuing curriculum focused on Data Science and Intelligent Systems
-* Expected graduation: 2027
+* Expected year of graduation: 2027
 
 ### **Bachelor of Technology – CSE (AI & ML)** (2021–2025)
 
