@@ -1,6 +1,6 @@
 # Avishkar Arjan
 
-📍 Paderborn, North Rhine-Westphalia, Germany
+📍 Paderborn, North Rhine-Westphalia, Germany      
 📧 [avishkararjan@gmail.com](mailto:avishkararjan@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/avishkararjan/) | </> [GitHub](https://www.github.com/avishkararjan/) | 🎓 [CV](https://drive.google.com/file/d/1nah8rDEPIzpUm-9IfDn2J3XLoOjlj8Wt/view?usp=sharing)
 
